@@ -6,13 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
