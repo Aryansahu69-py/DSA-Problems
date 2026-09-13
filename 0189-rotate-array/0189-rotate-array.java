@@ -9,9 +9,8 @@ class Solution {
         
     }
     public void reverse(int []nums , int i , int j){
-        while(i<j){    
-            /* here Two pointer approach is written so that we don not need to copy the array and increase the 
-            space complexity as JAVA is the point to reference language*/
+        while(i<j){
+            /* here Two pointer approach is written so that we don not need to copy the array and increase the space complexity as JAVA is the point to reference language*/
             int temp = nums[i];
             nums[i] = nums[j];
             nums[j] = temp;
