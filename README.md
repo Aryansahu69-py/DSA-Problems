@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -23,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
