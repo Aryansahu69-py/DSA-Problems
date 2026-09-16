@@ -2,7 +2,7 @@ class Solution {
     public int search(int[] arr, int tar) {
         int n = arr.length ; 
         int s = 0 , e=n-1 , ans = -1;
-        
+        /*This is optimize version of binary search with O(logn)*/ 
         while(s<=e){
             int mid = s + (e-s)/2;
             if(arr[mid]==tar) return mid ;
