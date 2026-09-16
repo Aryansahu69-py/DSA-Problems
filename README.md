@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0414-third-maximum-number) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
