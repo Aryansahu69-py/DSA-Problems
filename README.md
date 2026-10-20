@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
