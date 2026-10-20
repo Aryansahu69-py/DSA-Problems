@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
