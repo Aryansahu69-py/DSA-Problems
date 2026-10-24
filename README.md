@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
