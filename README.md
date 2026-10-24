@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Minimax
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
