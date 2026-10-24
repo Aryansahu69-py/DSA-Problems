@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
+| [3871-count-commas-in-range-ii](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
