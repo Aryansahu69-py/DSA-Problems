@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2235-add-two-integers](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3871-count-commas-in-range-ii) |
