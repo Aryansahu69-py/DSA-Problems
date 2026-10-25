@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3871-count-commas-in-range-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0283-move-zeroes) |
+| [2396-strictly-palindromic-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
