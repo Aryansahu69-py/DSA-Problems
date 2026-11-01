@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3871-count-commas-in-range-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Minimax
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Brainteaser
 |  |
