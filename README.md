@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
