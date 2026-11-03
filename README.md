@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2469-convert-the-temperature) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -157,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
