@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Aryansahu69-py/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
